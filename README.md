@@ -18,7 +18,7 @@ My name is Viktor Osheiko and i'm a Java developer.
 -   I’m   backend  for building web applications.
 -  In my free time, I engage in personal projects and tackle challenges on platforms like Leetcode and Codewars.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Viktor_Osh-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Viktor_Osh)
+- How to reach me: [![Telegram Badge](https://img.shields.io/badge/Viktor_Osh-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Viktor_Osh)
 [![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vik.osheiko@gmail.com)
 
 
